@@ -1,4 +1,3 @@
-
 # **Solar Power Output Prediction**
 
 ### Project Overview
@@ -44,11 +43,6 @@ The project is organized into the following main sections:
    ```
 5. Run the notebooks in the specified order to reproduce the results.
 
-### Results
-The project successfully predicts the solar power output with a reasonable accuracy. The final model's performance metrics are as follows:
-- Mean Absolute Error (MAE): X.XX
-- Mean Squared Error (MSE): X.XX
-- R-squared (R²): X.XX
 
 ### Conclusion
 This project demonstrates the potential of using historical weather data to predict solar power output. The insights gained from this analysis can help in planning and optimizing solar power generation.
